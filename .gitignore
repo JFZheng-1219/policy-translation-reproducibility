@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.log
+.env
+outputs/llm/*
+!outputs/llm/.gitkeep
+outputs/stata/*
+!outputs/stata/.gitkeep
+~$*
+

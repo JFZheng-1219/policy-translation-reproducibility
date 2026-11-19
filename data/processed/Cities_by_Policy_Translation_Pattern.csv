@@ -1,0 +1,108 @@
+﻿Pattern,Region ID,Administrative level,Region name
+Pattern 1,41,Provincial capital,Kunming
+Pattern 1,43,Provincial capital,Shijiazhuang
+Pattern 1,48,Provincial capital,Yinchuan
+Pattern 1,83,Ordinary prefecture-level city,Baoji
+Pattern 1,96,Ordinary prefecture-level city,Jincheng
+Pattern 1,104,Ordinary prefecture-level city,Heyuan
+Pattern 1,118,Ordinary prefecture-level city,Liaoyuan
+Pattern 1,131,Ordinary prefecture-level city,Huanggang
+Pattern 2,32,Provincial capital,Hohhot
+Pattern 2,39,Provincial capital,Taiyuan
+Pattern 2,40,Provincial capital,Lhasa
+Pattern 2,44,Provincial capital,Xining
+Pattern 2,72,Ordinary prefecture-level city,Nantong
+Pattern 2,73,Ordinary prefecture-level city,Bortala Mongol Autonomous Prefecture
+Pattern 2,74,Ordinary prefecture-level city,Wuzhong
+Pattern 2,77,Ordinary prefecture-level city,Daqing
+Pattern 2,80,Ordinary prefecture-level city,Xiaogan
+Pattern 2,92,Ordinary prefecture-level city,Deyang
+Pattern 2,98,Ordinary prefecture-level city,Benxi
+Pattern 2,101,Ordinary prefecture-level city,Liuzhou
+Pattern 2,117,Ordinary prefecture-level city,Xuchang
+Pattern 2,119,Ordinary prefecture-level city,Liaoyang
+Pattern 2,132,Ordinary prefecture-level city,Huangshi
+Pattern 3,28,Municipality,Shanghai
+Pattern 3,30,Municipality,Tianjin
+Pattern 3,31,Municipality,Chongqing
+Pattern 3,33,Provincial capital,Hefei
+Pattern 3,34,Provincial capital,Fuzhou
+Pattern 3,36,Provincial capital,Jinan
+Pattern 3,37,Provincial capital,Lanzhou
+Pattern 3,49,Provincial capital,Changsha
+Pattern 3,51,Provincial capital,Harbin
+Pattern 3,53,Provincial capital,Hangzhou
+Pattern 3,54,Provincial capital,Wuhan
+Pattern 3,56,Provincial capital,Xi'an
+Pattern 3,57,Provincial capital,Changchun
+Pattern 3,61,Subprovincial city,Dalian
+Pattern 3,63,Ordinary prefecture-level city,Sanming
+Pattern 3,65,Ordinary prefecture-level city,Dongying
+Pattern 3,66,Ordinary prefecture-level city,Zhongwei
+Pattern 3,69,Ordinary prefecture-level city,Liupanshui
+Pattern 3,78,Ordinary prefecture-level city,Dali Bai Autonomous Prefecture
+Pattern 3,81,Ordinary prefecture-level city,Ankang
+Pattern 3,85,Ordinary prefecture-level city,Yueyang
+Pattern 3,87,Ordinary prefecture-level city,Pingliang
+Pattern 3,88,Ordinary prefecture-level city,Langfang
+Pattern 3,89,Ordinary prefecture-level city,Kaifeng
+Pattern 3,90,Ordinary prefecture-level city,Zhangjiakou
+Pattern 3,91,Ordinary prefecture-level city,Zhangye
+Pattern 3,93,Ordinary prefecture-level city,Wenshan Zhuang and Miao Autonomous Prefecture
+Pattern 3,99,Ordinary prefecture-level city,Laibin
+Pattern 3,103,Ordinary prefecture-level city,Yulin
+Pattern 3,105,Ordinary prefecture-level city,Quanzhou
+Pattern 3,107,Ordinary prefecture-level city,Taizhou
+Pattern 3,109,Ordinary prefecture-level city,Qingyuan
+Pattern 3,111,Ordinary prefecture-level city,Shizuishan
+Pattern 3,112,Ordinary prefecture-level city,Honghe Hani and Yi Autonomous Prefecture
+Pattern 3,114,Ordinary prefecture-level city,Putian
+Pattern 3,115,Ordinary prefecture-level city,Hengyang
+Pattern 3,116,Ordinary prefecture-level city,Quzhou
+Pattern 3,121,Ordinary prefecture-level city,Tonghua
+Pattern 3,122,Ordinary prefecture-level city,Suining
+Pattern 3,123,Ordinary prefecture-level city,Handan
+Pattern 3,124,Ordinary prefecture-level city,Shaoyang
+Pattern 3,126,Ordinary prefecture-level city,Zhenjiang
+Pattern 3,129,Ordinary prefecture-level city,Jixi
+Pattern 3,130,Ordinary prefecture-level city,Hebi
+Pattern 4,29,Municipality,Beijing
+Pattern 4,35,Provincial capital,Nanchang
+Pattern 4,38,Provincial capital,Nanning
+Pattern 4,42,Provincial capital,Haikou
+Pattern 4,45,Provincial capital,Guiyang
+Pattern 4,46,Provincial capital,Guangzhou
+Pattern 4,47,Provincial capital,Zhengzhou
+Pattern 4,50,Provincial capital,Nanjing
+Pattern 4,52,Provincial capital,Chengdu
+Pattern 4,55,Provincial capital,Shenyang
+Pattern 4,58,Subprovincial city,Xiamen
+Pattern 4,59,Subprovincial city,Qingdao
+Pattern 4,60,Subprovincial city,Shenzhen
+Pattern 4,62,Subprovincial city,Ningbo
+Pattern 4,64,Ordinary prefecture-level city,Shangrao
+Pattern 4,67,Ordinary prefecture-level city,Wuhai
+Pattern 4,68,Ordinary prefecture-level city,Bozhou
+Pattern 4,70,Ordinary prefecture-level city,Neijiang
+Pattern 4,71,Ordinary prefecture-level city,Baotou
+Pattern 4,75,Ordinary prefecture-level city,Kashgar Prefecture
+Pattern 4,76,Ordinary prefecture-level city,Jiayuguan
+Pattern 4,79,Ordinary prefecture-level city,Weihai
+Pattern 4,82,Ordinary prefecture-level city,Anshun
+Pattern 4,84,Ordinary prefecture-level city,Xuancheng
+Pattern 4,86,Ordinary prefecture-level city,Bayannur
+Pattern 4,94,Ordinary prefecture-level city,Xinyu
+Pattern 4,95,Ordinary prefecture-level city,Changji Hui Autonomous Prefecture
+Pattern 4,97,Ordinary prefecture-level city,Jingdezhen
+Pattern 4,100,Ordinary prefecture-level city,Songyuan
+Pattern 4,102,Ordinary prefecture-level city,Guilin
+Pattern 4,106,Ordinary prefecture-level city,Tai'an
+Pattern 4,108,Ordinary prefecture-level city,Huainan
+Pattern 4,110,Ordinary prefecture-level city,Zhanjiang
+Pattern 4,113,Ordinary prefecture-level city,Shaoxing
+Pattern 4,120,Ordinary prefecture-level city,Yuncheng
+Pattern 4,125,Ordinary prefecture-level city,Jinhua
+Pattern 4,127,Ordinary prefecture-level city,Changzhi
+Pattern 4,128,Ordinary prefecture-level city,Fuxin
+Pattern 4,133,Ordinary prefecture-level city,Qiandongnan Miao and Dong Autonomous Prefecture
+Pattern 4,134,Ordinary prefecture-level city,Qiqihar
