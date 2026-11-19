@@ -56,6 +56,12 @@ The four files originally supplied with a `.csv` extension were internally Excel
 - Fan Wu
 - Haoxuan Sa
 
+## Licences
+
+- The custom Python and Stata code is released under the MIT License; see `LICENSE`.
+- To the extent that the authors hold the necessary rights, their original contributions to the derived datasets are released under the Creative Commons Attribution 4.0 International (CC BY 4.0) licence; see `DATA_LICENSE.md`.
+- The data licence does not apply to third-party source materials or underlying third-party data, including government policy documents, statistical-yearbook data and CEADs data. Those materials remain subject to the terms of their respective providers.
+
 ## Quick start
 
 For Stata, set the working directory to the repository root and run:
