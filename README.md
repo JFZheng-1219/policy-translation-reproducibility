@@ -14,6 +14,8 @@ data/
   analysis/                   Analysis-ready regression data
 docs/
   DATA_DICTIONARY.md          File- and variable-level documentation
+  SOURCES_AND_ACCESS.md       Official source routes and download procedures
+  SOURCE_MANIFEST_TEMPLATE.csv Template for document-level provenance records
   REPRODUCIBILITY.md          Reproduction instructions and environment
   CODE_AUDIT.md               Static code review and limited smoke-test findings
   AVAILABILITY_STATEMENTS.md  Manuscript-ready statement templates
@@ -61,5 +63,5 @@ python -m venv .venv
 python -m pip install -r requirements.txt
 ```
 
-See `docs/REPRODUCIBILITY.md` for the complete workflow and `docs/REPRODUCIBILITY_GAPS.md` for items that must be resolved before public release.
+See `docs/SOURCES_AND_ACCESS.md` for the official source routes, `docs/REPRODUCIBILITY.md` for the complete workflow and `docs/REPRODUCIBILITY_GAPS.md` for items that must be resolved before public release.
 

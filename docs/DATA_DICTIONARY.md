@@ -63,8 +63,8 @@ Analysis-ready sample of 103 cities nested within 27 province-level units. The f
 | `gsem_city_sample` | Indicator for inclusion in the city-level modelling sample; all deposited observations equal 1. |
 | `pattern` | Unordered four-category city policy-translation outcome; Pattern 1 is the model reference category. |
 | `province_id` | Province-level cluster identifier. |
-| `ln_GDPpc` | Natural logarithm of city GDP per capita. Currency base year and source must be documented. |
-| `ln_CEI` | Natural logarithm of city carbon-emission intensity. Unit, year and source must be documented. |
+| `ln_GDPpc` | Natural logarithm of city GDP per capita compiled from the statistical yearbook issued by the relevant municipal statistics authority. The reference year, currency unit, current/constant-price basis and any deflation procedure must still be documented. |
+| `ln_CEI` | Natural logarithm of city carbon-emission intensity constructed using city-level carbon-emissions data from the China Emission Accounts and Datasets (CEADs). The exact CEADs product/version, reference year, unit, denominator and transformation formula must still be documented. |
 | `admin_level` | City administrative-level category. |
 | `economic_region` | Economic-region category: East, Central, West or Northeast. |
 | `S_PC_goal` | Provincial Goal net translation orientation, defined in the Stata label as `PTR - NTR`. |
