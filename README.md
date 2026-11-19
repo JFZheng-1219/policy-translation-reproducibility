@@ -1,6 +1,10 @@
-# Policy Translation Reproducibility Package
+# Alignment without uniformity in national climate policy translation in Chinese cities
 
-This repository contains the data and custom code supporting a study of climate-policy translation across Chinese cities and provinces. It is being prepared for submission to *Nature Cities*.
+This repository contains the deposited data and custom code supporting the manuscript *Alignment without uniformity in national climate policy translation in Chinese cities*, by Jinfeng Zheng, Fan Wu and Haoxuan Sa, prepared for submission to *Nature Cities*.
+
+## Scope
+
+The repository provides the exact processed data, figure source data and analysis-ready data used in the manuscript, together with the three Python scripts for the LLM-assisted policy analysis and the Stata scripts for the M1–M6 statistical analyses. It does not contain the original policy-text corpus or a complete executable transformation from the LLM outputs to every processed, figure and regression dataset. The deposited processed and analysis-ready datasets therefore serve as the fixed inputs for reproducing the reported figures and statistical analyses.
 
 ## Repository contents
 
@@ -45,6 +49,12 @@ The four files originally supplied with a `.csv` extension were internally Excel
 - `code/python/step3.py`: scores alignment against central and provincial policy collections.
 - `code/stata/M1_M2.do`: primary multinomial models and reporting outputs.
 - `code/stata/M3_M4_M5_M6.do`: robustness and sensitivity analyses.
+
+## Authors
+
+- Jinfeng Zheng
+- Fan Wu
+- Haoxuan Sa
 
 ## Quick start
 

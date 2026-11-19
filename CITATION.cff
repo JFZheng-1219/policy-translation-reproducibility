@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this data or code, please cite the archived Zenodo records and the associated article."
+title: "Alignment without uniformity in national climate policy translation in Chinese cities: analysis code"
+type: software
+authors:
+  - family-names: Zheng
+    given-names: Jinfeng
+  - family-names: Wu
+    given-names: Fan
+  - family-names: Sa
+    given-names: Haoxuan
+version: 1.0.0
+repository-code: "https://github.com/JFZheng-1219/policy-translation-reproducibility"

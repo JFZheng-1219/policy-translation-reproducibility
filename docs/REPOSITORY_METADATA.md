@@ -6,14 +6,14 @@
 - Proposed URL: `https://github.com/JFZheng-1219/policy-translation-reproducibility`
 - Initial visibility: private while documentation and licences are finalized
 - Public release tag: `v1.0.0`
-- Release title: `<FULL MANUSCRIPT TITLE>`
+- Release title: `Alignment without uniformity in national climate policy translation in Chinese cities`
 
 ## Zenodo data record
 
 - Resource type: Dataset
-- Title: `<FULL MANUSCRIPT TITLE>: data`
+- Title: `Alignment without uniformity in national climate policy translation in Chinese cities: data`
 - Version: `1.0`
-- Creators: `<COMPLETE DATA CREATOR LIST AND ORCIDS>`
+- Creators: Jinfeng Zheng; Fan Wu; Haoxuan Sa
 - Description: Policy-corpus metadata, LLM-derived results, city-pattern classifications, figure source data and analysis-ready regression data.
 - Related identifiers: GitHub repository URL, code DOI and, when available, article DOI
 - Licence: `<DATA LICENCE APPROVED BY ALL RIGHTS HOLDERS>`
@@ -21,9 +21,9 @@
 ## Zenodo code record
 
 - Resource type: Software
-- Title: `<FULL MANUSCRIPT TITLE>: analysis code`
+- Title: `Alignment without uniformity in national climate policy translation in Chinese cities: analysis code`
 - Version: `1.0`
-- Creators: `<COMPLETE CODE CREATOR LIST AND ORCIDS>`
+- Creators: Jinfeng Zheng; Fan Wu; Haoxuan Sa
 - Description: Python code for the three-stage LLM-assisted policy analysis and Stata code for the M1–M6 statistical analyses.
 - Related identifiers: data DOI, GitHub repository URL and, when available, article DOI
 - Licence: `<OSI-APPROVED CODE LICENCE>`
